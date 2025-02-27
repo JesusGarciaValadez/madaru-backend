@@ -45,7 +45,7 @@ return [
     // 'queue' => env('SCOUT_QUEUE', false),
     'queue' => [
         'connection' => env('SCOUT_QUEUE', 'redis'),
-        'queue' => 'scout'
+        'queue' => 'scout',
     ],
 
     /*

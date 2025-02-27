@@ -206,5 +206,5 @@ return [
 
     'auth' => [
         'email' => env('TELESCOPE_AUTHORIZATION_EMAIL'),
-    ]
+    ],
 ];
